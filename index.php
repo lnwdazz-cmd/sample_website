@@ -40,7 +40,7 @@
 	  <?php
 		$user=$_GET["username"];
 		$credential=$_GET["credential"];
-		if($user==="sa"&&$credential==="JDM82XDVMcNI^wpdW7ZQ5")
+		if($user==="sa"&&$credential==="supervalentine")
 		{
 			echo "<br><br>The flag is ";
 		}
